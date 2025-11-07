@@ -1,0 +1,7 @@
+# Middlewares
+
+Esta carpeta contendrá middlewares (CORS, errores, etc.).
+
+Trazabilidad:
+- SwR-I04: CORS
+- ISO/IEC 5055:2021: Security

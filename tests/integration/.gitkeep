@@ -1,0 +1,7 @@
+# Integration Tests
+
+Esta carpeta contendrá las pruebas de integración.
+
+Trazabilidad:
+- ISO/IEC 12207:2017: Sec 6.4.6.4.3 (Integration)
+- SwR-V02: Pruebas de Integración

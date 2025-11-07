@@ -1,0 +1,7 @@
+# Data Infrastructure
+
+Esta carpeta contendrá la implementación de repositorios.
+
+Trazabilidad:
+- Clean Architecture: Infrastructure Layer
+- SwR-F08: Datos de Demostración

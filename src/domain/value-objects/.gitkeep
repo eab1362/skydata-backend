@@ -1,0 +1,7 @@
+# Value Objects
+
+Esta carpeta contendrá los objetos de valor del dominio.
+
+Trazabilidad:
+- Clean Architecture: Domain Layer
+- SwR-ST01: GeoJSON RFC 7946

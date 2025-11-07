@@ -1,0 +1,7 @@
+# Domain Entities
+
+Esta carpeta contendrá las entidades del dominio.
+
+Trazabilidad:
+- Clean Architecture: Domain Layer
+- ISO/IEC 12207:2017: Sec 6.4.6.4 (Implementation)

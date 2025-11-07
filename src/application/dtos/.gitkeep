@@ -1,0 +1,7 @@
+# DTOs (Data Transfer Objects)
+
+Esta carpeta contendrá los objetos de transferencia de datos.
+
+Trazabilidad:
+- Clean Architecture: Application Layer
+- SwR-F06: Formato de datos estructurados

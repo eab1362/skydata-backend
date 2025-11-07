@@ -1,0 +1,7 @@
+# Controllers
+
+Esta carpeta contendrá los controladores HTTP.
+
+Trazabilidad:
+- Clean Architecture: Presentation Layer
+- SwR-F05: Endpoint REST de Datos

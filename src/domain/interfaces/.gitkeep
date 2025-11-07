@@ -1,0 +1,7 @@
+# Domain Interfaces
+
+Esta carpeta contendrá las interfaces de repositorios.
+
+Trazabilidad:
+- Clean Architecture: Dependency Inversion Principle
+- SwR-DC02: Arquitectura de Componentes

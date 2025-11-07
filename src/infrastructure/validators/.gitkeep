@@ -1,0 +1,7 @@
+# Validators
+
+Esta carpeta contendrá validadores de datos.
+
+Trazabilidad:
+- ISO/IEC 5055:2021: Reliability (Validación de datos)
+- SwR-ST01: Validación de formato GeoJSON

@@ -1,0 +1,7 @@
+# Use Cases
+
+Esta carpeta contendrá los casos de uso de la aplicación.
+
+Trazabilidad:
+- Clean Architecture: Application Layer
+- CU-03: Acceder a Datos mediante Servicio
