@@ -1,7 +1,7 @@
 const GeoJSONValidator = require('../../../src/infrastructure/validators/geojson.validator');
 
 describe('GeoJSONValidator', () => {
-  test('acepta GeoJSON válido', () => {
+  test('GeoJSON válido', () => {
     const valid = {
       type: 'FeatureCollection',
       features: [{ type: 'Feature', geometry: { type: 'Point', coordinates: [-74, 4] }, properties: {} }]
@@ -10,7 +10,7 @@ describe('GeoJSONValidator', () => {
     expect(result.valid).toBe(true);
   });
 
-  test('rechaza sin type', () => {
+  test('GeoJSON inválido - sin type', () => {
     const invalid = { features: [] };
     const result = GeoJSONValidator.validate(invalid);
     expect(result.valid).toBe(false);
